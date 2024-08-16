@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class Demo1 {
+public class Demo1_test {
 @Test
 	public void lounchBrowser() {
 	WebDriver driver = new ChromeDriver();
